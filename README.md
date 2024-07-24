@@ -13,3 +13,5 @@ Experience in introductory calculus and linear algebra is sufficient, while math
 ## References
 
 - James, Gareth, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor. 2023. An Introduction to Statistical Learning: With Applications in Python. 1st ed. New York, NY: Springer.
+
+References for python tutorial can be found in the first section of each notebook file.
