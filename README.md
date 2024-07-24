@@ -1,6 +1,6 @@
 # Machine Learning Reading Group
 
-A reading group on machine learning run by (memeber1), (member2), and (member3).
+A machine learning reading group led by (member1), (member2), and (member3).
 
 ## Prerequisites
 
