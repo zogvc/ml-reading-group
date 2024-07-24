@@ -1,5 +1,7 @@
 # Machine Learning Reading Group
 
+A reading group on machine learning run by (memeber1), (member2), and (member3).
+
 ## Prerequisites
 
 Familiarity with Python programming is required. If not, you can refer to the following free [lecture video](https://www.youtube.com/watch?v=nLRL_NcnK-4) on Python basics or the Python tutorials in the Jupyter notebook files located in the `python` folder.
