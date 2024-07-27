@@ -6,7 +6,9 @@ A machine learning reading group led by (member1), (member2), and (member3).
 
 Familiarity with Python programming is required. If not, you can refer to the following free [lecture video](https://www.youtube.com/watch?v=nLRL_NcnK-4) on Python basics or the Python tutorials in the Jupyter notebook files located in the `python` folder.
 
-Experience in introductory calculus and linear algebra is sufficient, while mathematical maturity, such as the ability to read and understand proofs, may further enhance your learning.
+Python tutorial notes in the `python` folder might go a little further than the lecture video.
+
+Also, experience in introductory calculus and linear algebra is sufficient, while mathematical maturity, such as the ability to read and understand proofs, may further enhance your learning.
 
 ## Contents
 
